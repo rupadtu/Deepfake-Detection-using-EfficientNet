@@ -1,7 +1,6 @@
-# Deepfake-Detection-using-EfficientNet
-# Deepfake Detection with EfficientNet
+# Deepfake Detection using EfficientNet
 
-This project implements a deep learning model using EfficientNet to detect deepfake images. It includes data preprocessing, training, and testing scripts.
+This project implements a deep learning model using EfficientNet to detect deepfake images. The approach involves training a binary classification model using EfficientNet-B0, a lightweight and powerful convolutional neural network. The dataset consists of real and fake images, and the model learns to distinguish between them using transfer learning, data augmentation, and cross-validation techniques. The training pipeline includes optimization strategies such as AdamW optimizer, learning rate scheduling, and gradient clipping to improve convergence and generalization.
 
 ## Dataset Structure
 The dataset should be structured as follows:
