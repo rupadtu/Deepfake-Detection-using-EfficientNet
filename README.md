@@ -54,7 +54,6 @@ We trained and evaluated our model using a well-structured and stratified pipeli
 ## 📊 Results
 
 ### 📉 Confusion Matrix
-![Confusion Matrix](assets/confusion%20matrix.png)
 
 ---
 
